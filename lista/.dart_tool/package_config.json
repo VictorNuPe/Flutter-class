@@ -1,0 +1,20 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "pedantic",
+      "rootUri": "file:///C:/Users/victo/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/pedantic-1.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "lista",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    }
+  ],
+  "generated": "2021-04-06T22:38:15.679368Z",
+  "generator": "pub",
+  "generatorVersion": "2.13.0-77.0.dev"
+}
