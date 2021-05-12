@@ -1,7 +1,6 @@
 <img a alt="Logo da Uninove" src="https://portal.coren-sp.gov.br/wp-content/uploads/2014/11/logo%20uninove.png" width="150" height="75">
 
 <br>
-<br>
 
 # Lista de projetos em flutter
 
