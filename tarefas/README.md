@@ -1,6 +1,6 @@
-# tarefas
+# Tarefas
 
-A new Flutter project.
+Um aplicativo To-Do List em flutter feito durante as aulas ministradas pelo Profº
 
 ## Getting Started
 
